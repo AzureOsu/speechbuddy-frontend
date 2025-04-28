@@ -1,6 +1,8 @@
 stackbitVersion: ~0.6.0
+ssgName: custom
 staticDir: .
 pagesDir: .
+devCommand: "npx serve ."
 models:
   page:
     type: page
