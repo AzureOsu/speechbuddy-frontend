@@ -1,0 +1,9 @@
+stackbitVersion: ~0.6.0
+staticDir: .
+pagesDir: .
+models:
+  page:
+    type: page
+    fields:
+      - name: content
+        type: html
